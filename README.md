@@ -1,0 +1,1 @@
+This is a simple calculater bases on terminal
