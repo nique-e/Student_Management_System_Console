@@ -1,1 +1,1 @@
- # This is a simple calculater bases on terminal
+ # This is a Student Management System bases on terminal
